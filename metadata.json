@@ -1,0 +1,5 @@
+{
+  "name": "ProBill - Professional Billing Software",
+  "description": "A comprehensive billing and invoice management system with PDF export and local storage.",
+  "requestFramePermissions": []
+}
